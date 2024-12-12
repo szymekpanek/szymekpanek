@@ -34,6 +34,12 @@ A web application to aid music theory learning:
 
 ---
 
+## 🛠️ Programming Languages Used
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=szymekpanek&layout=compact&theme=radical)
+
+---
+
 ## 🚀 What I'm Working On:
 - Deepening my knowledge of **Angular** and **JavaScript** to create modern, responsive web applications.  
 - I'm expanding my expertise in **JavaScript** and **Angular**, aiming to become a full-stack developer.
